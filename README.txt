@@ -23,3 +23,4 @@ Steam, https://steamcdn-a.akamaihd.net/client/installer/SteamSetup.exe
 Discord, https://discord.com/api/download?platform=win
 VLC, https://www.videolan.org/vlc/
 IrfanView, https://www.fosshub.com/IrfanView.html
+SumatraPDF, https://www.sumatrapdfreader.org/download-free-pdf-viewer.html
