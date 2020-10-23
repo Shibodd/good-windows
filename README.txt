@@ -1,16 +1,16 @@
-Name, Source
+Nome, Link
  
-# Win10 Activation
+# Attivazione Win10
 Microsoft Activation Scripts, https://github.com/massgravel/Microsoft-Activation-Scripts/releases/latest
 
 
-# For my PC
+# PC di casa
 Logitech G Hub, https://download01.logi.com/web/ftp/pub/techsupport/gaming/lghub_installer.exe
 RX 570, https://www.amd.com/en/support/graphics/radeon-500-series/radeon-rx-500-series/radeon-rx-570
 B450 Mortar Max, https://it.msi.com/Motherboard/support/B450M-MORTAR-MAX#down-driver&Win10%2064
 
 
-# Essentials
+# Essenziali
 Visual C++ Redistributable, https://support.microsoft.com/en-us/help/2977003/the-latest-supported-visual-c-downloads
 Firefox, https://www.mozilla.org/it/firefox/download/thanks/
 Powershell, https://github.com/PowerShell/PowerShell/releases/latest
