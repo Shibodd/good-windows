@@ -13,8 +13,9 @@ Logitech G Hub, https://download01.logi.com/web/ftp/pub/techsupport/gaming/lghub
 
 
 # Essenziali
-Visual C++ Redistributable, https://support.microsoft.com/en-us/help/2977003/the-latest-supported-visual-c-downloads
+7-Zip, https://www.7-zip.org/
 Firefox, https://www.mozilla.org/it/firefox/download/thanks/
+Visual C++ Redistributable, https://support.microsoft.com/en-us/help/2977003/the-latest-supported-visual-c-downloads
 Powershell, https://github.com/PowerShell/PowerShell/releases/latest
 Fira Code, https://github.com/tonsky/FiraCode/releases/latest
 VSCode, https://code.visualstudio.com/docs/?dv=win64
