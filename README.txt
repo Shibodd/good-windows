@@ -9,6 +9,7 @@ RX 570, https://www.amd.com/en/support/graphics/radeon-500-series/radeon-rx-500-
 B450 Mortar Max, https://it.msi.com/Motherboard/support/B450M-MORTAR-MAX#down-driver&Win10%2064
 Ryzen Master, https://download.amd.com/Desktop/AMD-Ryzen-Master.exe
 Logitech G Hub, https://download01.logi.com/web/ftp/pub/techsupport/gaming/lghub_installer.exe
+Topping, https://www.tpdz.net/download
 
 
 
@@ -21,6 +22,7 @@ Fira Code, https://github.com/tonsky/FiraCode/releases/latest
 VSCode, https://code.visualstudio.com/docs/?dv=win64
 Windows Terminal, Microsoft Store
 Windows Terminal Context Menu, https://github.com/kerol2r20/Windows-terminal-context-menu/archive/master.zip
+HxD, https://mh-nexus.de/downloads/HxDSetup.zip
 EarTrumpet, Microsoft Store
 ShareX, https://github.com/ShareX/ShareX/releases/latest
 WinAeroTweaker, https://winaero.com/download.php?view.1796
@@ -32,4 +34,5 @@ Discord, https://discord.com/api/download?platform=win
 VLC, https://www.videolan.org/vlc/
 IrfanView, https://www.fosshub.com/IrfanView.html
 SumatraPDF, https://www.sumatrapdfreader.org/download-free-pdf-viewer.html
+Java, https://www.java.com/it/download/
 
