@@ -32,7 +32,7 @@ qBittorrent, https://www.fosshub.com/qBittorrent.html
 Steam, https://steamcdn-a.akamaihd.net/client/installer/SteamSetup.exe
 Discord, https://discord.com/api/download?platform=win
 VLC, https://www.videolan.org/vlc/
-IrfanView, https://www.fosshub.com/IrfanView.html
+ImageGlass, https://imageglass.org/download
 SumatraPDF, https://www.sumatrapdfreader.org/download-free-pdf-viewer.html
 Java, https://www.java.com/it/download/
 
