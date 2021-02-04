@@ -10,7 +10,7 @@ B450 Mortar Max, https://it.msi.com/Motherboard/support/B450M-MORTAR-MAX#down-dr
 Ryzen Master, https://download.amd.com/Desktop/AMD-Ryzen-Master.exe
 Logitech G Hub, https://download01.logi.com/web/ftp/pub/techsupport/gaming/lghub_installer.exe
 Topping, https://www.tpdz.net/download
-
+MP190, https://gdlp01.c-wss.com/gds/5/0100001195/02/mp190swin64101ea24.exe
 
 
 # Essenziali
