@@ -1,14 +1,14 @@
 # Attivazione Win10
-Microsoft Activation Scripts, https://github.com/massgravel/Microsoft-Activation-Scripts/releases/latest
+Microsoft Activation Scripts, https://github.com/massgravel/Microsoft-Activation-Scripts/releases/latest  
 
 
 # PC di casa
-RX 570, https://www.amd.com/en/support/graphics/radeon-500-series/radeon-rx-500-series/radeon-rx-570
-B450 Mortar Max, https://it.msi.com/Motherboard/support/B450M-MORTAR-MAX#down-driver&Win10%2064
-Ryzen Master, https://download.amd.com/Desktop/AMD-Ryzen-Master.exe
-Logitech G Hub, https://download01.logi.com/web/ftp/pub/techsupport/gaming/lghub_installer.exe
-Topping, https://www.tpdz.net/download
-MP190, https://gdlp01.c-wss.com/gds/5/0100001195/02/mp190swin64101ea24.exe
+RX 570, https://www.amd.com/en/support/graphics/radeon-500-series/radeon-rx-500-series/radeon-rx-570  
+B450 Mortar Max, https://it.msi.com/Motherboard/support/B450M-MORTAR-MAX#down-driver&Win10%2064  
+Ryzen Master, https://download.amd.com/Desktop/AMD-Ryzen-Master.exe  
+Logitech G Hub, https://download01.logi.com/web/ftp/pub/techsupport/gaming/lghub_installer.exe  
+Topping, https://www.tpdz.net/download  
+MP190, https://gdlp01.c-wss.com/gds/5/0100001195/02/mp190swin64101ea24.exe  
 
 
 # Essenziali
