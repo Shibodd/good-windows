@@ -1,4 +1,3 @@
-
 # PC di casa
 | Nome | Link |
 | --- | --- |
@@ -18,17 +17,21 @@
 | 7-Zip | https://www.7-zip.org/ |
 | Firefox | https://www.mozilla.org/it/firefox/download/thanks/ |
 | Visual C++ Redistributable | https://support.microsoft.com/en-us/help/2977003/the-latest-supported-visual-c-downloads |
+| Git | https://git-scm.com/download/win |
 | Powershell | https://github.com/PowerShell/PowerShell/releases/latest |
 | Fira Code | https://github.com/tonsky/FiraCode/releases/latest |
 | VSCode | https://code.visualstudio.com/docs/?dv=win64 |
 | Windows Terminal | Microsoft Store |
 | Windows Terminal Context Menu | https://github.com/kerol2r20/Windows-terminal-context-menu/archive/master.zip |
+| Python | https://www.python.org/downloads/ |
 | HxD | https://mh-nexus.de/downloads/HxDSetup.zip |
 | EarTrumpet | Microsoft Store |
 | ShareX | https://github.com/ShareX/ShareX/releases/latest |
 | WinAeroTweaker | https://winaero.com/download.php?view.1796 |
 | Translucent Taskbar | Microsoft Store |
 | GIMP | https://www.gimp.org/downloads/ |
+| Krita | https://krita.org/en/download/krita-desktop/ |
+| Blender | https://www.blender.org/download/ |
 | qBittorrent | https://www.fosshub.com/qBittorrent.html |
 | Steam | https://steamcdn-a.akamaihd.net/client/installer/SteamSetup.exe |
 | Discord | https://discord.com/api/download?platform=win |
