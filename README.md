@@ -12,7 +12,7 @@ MP190, https://gdlp01.c-wss.com/gds/5/0100001195/02/mp190swin64101ea24.exe
 
 
 # Essenziali
-7-Zip, https://www.7-zip.org/  
+|7-Zip | https://www.7-zip.org/ |
 Firefox, https://www.mozilla.org/it/firefox/download/thanks/  
 Visual C++ Redistributable, https://support.microsoft.com/en-us/help/2977003/the-latest-supported-visual-c-downloads  
 Powershell, https://github.com/PowerShell/PowerShell/releases/latest  
