@@ -1,5 +1,3 @@
-Nome, Link
- 
 # Attivazione Win10
 Microsoft Activation Scripts, https://github.com/massgravel/Microsoft-Activation-Scripts/releases/latest
 
